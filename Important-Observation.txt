@@ -15,3 +15,6 @@ Ans.
 
 4. Run on kubernetes
 	a) Add a deployment and a service.
+
+
+Docker image on docker hub: divyankgupta/reactapp:final
